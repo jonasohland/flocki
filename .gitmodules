@@ -1,0 +1,3 @@
+[submodule "flocking-3d"]
+	path = flocking-3d
+	url = https://github.com/jonasohland/flocking-3d
